@@ -1,2 +1,10 @@
 # BallStateVisual
-Data Visualization
+## Data Visualization
+
+### About this Course
+
+In the era of big data, acquiring the ability to analyze and visually represent “Big Data” in a compelling manner is crucial. Therefore, it is essential for data scientists to develop the skills in producing and critically interpreting digital maps, charts, and graphs. Data visualization is an increasingly important topic in our globalized and digital society. It involves graphically representing data or information, enabling decision-makers across various industries to comprehend complex concepts and processes that may otherwise be challenging to grasp. DSCI 605 Data visualization serves as the foundation for understanding principles, concepts, techniques, and tools used to visualize information in large, intricate data sets. It also provides hands-on experience in visualizing big data using the open-source software R. Through the course, students will learn to evaluate the effectiveness of visualization designs and think critically about decisions, such as color choice and visual encoding. Additionally, students will create their own data visualizations and become proficient in using R. 
+
+The course comprises four sections. The first section caters to learners with minimal or no experience in R, establishing the groundwork for data visualization with R. The second section introduces preliminary data visualization techniques, allowing students to gain hands-on experience with common visualization practices for Exploratory Data Analysis (EDA) using ggplot2. This section emphasizes data exploration before delving into advanced data mining. The third section builds upon existing data visualization skills by delving into advanced data visualization topics, including interactive data visualization, time series plotting, and spatial mapping.   
+
+The primary objective of the first three sections is to equip students with a well-developed set of skills, enabling them to create a wide range of visualizations in R. The final section focuses on completing a final project, where students apply the skills, theory, and experiences gained from the previous sections. The project entails developing a data visualization that effectively communicates a compelling story to the audience and readers.
